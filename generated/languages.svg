@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #f1e05a;width: 64.570%;" class="progress-item"></span><span style="background-color: #3572A5;width: 35.051%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.318%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.062%;" class="progress-item"></span>
+<span style="background-color: #f1e05a;width: 64.324%;" class="progress-item"></span><span style="background-color: #3572A5;width: 34.894%;" class="progress-item"></span><span style="background-color: #41b883;width: 0.404%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.316%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.062%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">64.57%</span>
+<span class="percent">64.32%</span>
 </li>
 
 
@@ -153,11 +153,20 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">35.05%</span>
+<span class="percent">34.89%</span>
 </li>
 
 
 <li style="animation-delay: 300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#41b883;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Vue</span>
+<span class="percent">0.40%</span>
+</li>
+
+
+<li style="animation-delay: 450ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#89e051;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
@@ -166,7 +175,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 </li>
 
 
-<li style="animation-delay: 450ms;">
+<li style="animation-delay: 600ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#C1F12E;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>

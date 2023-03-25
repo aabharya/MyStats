@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3572A5;width: 67.616%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 18.785%;" class="progress-item"></span><span style="background-color: #41b883;width: 11.820%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 1.232%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.458%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.089%;" class="progress-item"></span>
+<span style="background-color: #3572A5;width: 67.414%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 18.663%;" class="progress-item"></span><span style="background-color: #41b883;width: 12.149%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 1.229%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.456%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.089%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">67.62%</span>
+<span class="percent">67.41%</span>
 </li>
 
 
@@ -153,7 +153,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">18.79%</span>
+<span class="percent">18.66%</span>
 </li>
 
 
@@ -162,7 +162,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Vue</span>
-<span class="percent">11.82%</span>
+<span class="percent">12.15%</span>
 </li>
 
 

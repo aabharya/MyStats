@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3572A5;width: 78.260%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 9.185%;" class="progress-item"></span><span style="background-color: #41b883;width: 8.048%;" class="progress-item"></span><span style="background-color: #3178c6;width: 3.149%;" class="progress-item"></span><span style="background-color: #89e051;width: 1.247%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.083%;" class="progress-item"></span><span style="background-color: #427819;width: 0.028%;" class="progress-item"></span>
+<span style="background-color: #3572A5;width: 78.242%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 9.183%;" class="progress-item"></span><span style="background-color: #41b883;width: 8.046%;" class="progress-item"></span><span style="background-color: #3178c6;width: 3.148%;" class="progress-item"></span><span style="background-color: #89e051;width: 1.246%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.083%;" class="progress-item"></span><span style="background-color: #427819;width: 0.028%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 0.023%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">78.26%</span>
+<span class="percent">78.24%</span>
 </li>
 
 
@@ -153,7 +153,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">9.19%</span>
+<span class="percent">9.18%</span>
 </li>
 
 
@@ -199,6 +199,15 @@ viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Makefile</span>
 <span class="percent">0.03%</span>
+</li>
+
+
+<li style="animation-delay: 1050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#00ADD8;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Go</span>
+<span class="percent">0.02%</span>
 </li>
 
 
